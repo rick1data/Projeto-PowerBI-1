@@ -5,3 +5,4 @@
 ## Descrevendo
 
 *Um Dashboard de análie comercial, utilizando vária ferramentas do PowerBi e diversos tipos de gráficos.*  
+*Com uso de Modelagem Dimensional e diversas medidas criadas com DAX*  
